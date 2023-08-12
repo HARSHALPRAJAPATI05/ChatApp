@@ -127,7 +127,7 @@ public class Server implements ActionListener{
 //  upr close vadi white patti close krva mate
         f.setUndecorated(true);
 //  Frame no color change krva mate
-        f.getContentPane().setBackground(Color.WHITE);  
+        f.getContentPane().setBackground(Color.RED);  
 //  Output ma visible thay ena mate true
         f.setVisible(true);
     }
